@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <tags>EPiServerModulePackage EPiServer</tags>
+    <dependencies>
+      <dependency id="EPiServer.CMS.UI.Core"
+                  version="[7.6.4,9.0)" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="modules\_protected\Hyxtra.DisplayOptions\*.config"
+          target="content\modules\_protected\Hyxtra.DisplayOptions" />
+  </files>
+</package>
