@@ -11,6 +11,7 @@ This library tries to address these shortcomings by allowing the developer to sp
 [Simply download it through nuget...](https://www.nuget.org/packages/Hyxtra.DisplayOptions/)
 
 ...or do it the oldschool way!
+
 1. Pull
 2. Build
 3. Copy *Hyxtra.DisplayOptions.dll* to your project's *bin* directory

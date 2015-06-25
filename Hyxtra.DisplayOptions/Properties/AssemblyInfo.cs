@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Hyxtra.DisplayOptions")]
-[assembly: AssemblyDescription("Content specific diplay options for EPiServer.")]
+[assembly: AssemblyDescription("Content specific display options for EPiServer.")]
 [assembly: AssemblyCompany("Hyxtra Consulting")]
 [assembly: AssemblyCopyright("Copyright © Hyxtra Consulting 2015")]
 
